@@ -199,7 +199,6 @@ for item in data:
 
     # BGMを追加
     if len(BGMS) > 0:
-        print("BGMが見つかりませんでした。")
         bgm = random.choice(BGMS)
         vt.add_bgm_to_video(concat2_path, bgm, output_path)
         print(f"{output_path}を生成しました。")

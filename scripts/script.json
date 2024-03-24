@@ -1,9 +1,30 @@
 [
   {
-    "situation_description": "女の子がレストランで注文しようとしています。",
-    "japanese": "この料理は何が入っていますか？",
-    "english": "What ingredients are in this dish?",
-    "key_phrase": "ingredients",
-    "description": "材料、成分"
+    "situation_description": "女の子が初めての海外旅行に行く前に、パスポートを持っているか確認しています。",
+    "japanese": "パスポートを持っているか確認してもいいですか？",
+    "english": "Can I check if I have my passport?",
+    "key_phrase": "check if",
+    "description": "「〜かどうか確認する」"
+  },
+  {
+    "situation_description": "女の子が空港でチェックインカウンターに向かっています。",
+    "japanese": "どこでチェックインできますか？",
+    "english": "Where can I check in?",
+    "key_phrase": "check in",
+    "description": "「チェックインする」"
+  },
+  {
+    "situation_description": "女の子が飛行機の中で隣の人に話しかけています。",
+    "japanese": "これが初めての海外旅行なんです。",
+    "english": "This is my first time traveling abroad.",
+    "key_phrase": "first time",
+    "description": "「初めて」"
+  },
+  {
+    "situation_description": "女の子が目的地に着いた後、タクシーを探しています。",
+    "japanese": "最寄りのタクシー乗り場はどこですか？",
+    "english": "Where is the nearest taxi stand?",
+    "key_phrase": "nearest",
+    "description": "「最も近い」"
   }
 ]
